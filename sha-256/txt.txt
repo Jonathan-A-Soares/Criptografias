@@ -1,0 +1,42 @@
+arquivo.json{
+    crip:(caracteres)
+    key:(base64)
+
+    descriptografar {
+        
+            crip:(caracteres)
+            key:(base64)
+    }
+}
+descriptografar 
+    key:(base64)
+
+descriptografar
+    crip:(caracteres)
+    key:(caracteres)
+
+codigo criptografado vai 
+gerar arquivo .json dele tera 
+
+criptografia 
+key em base 64
+
+descriptografar base64
+ 
+ descriptografar 
+ a criptografia com a 
+ key em base 64 descriptografada
+
+ assim tendo msg
+
+
+
+-------------------------------------------------
+
+ gera key  
+ criptografar codigo com esta key
+criptografa em a key base 64
+
+ criptografar tudo com key do progama
+
+ 
